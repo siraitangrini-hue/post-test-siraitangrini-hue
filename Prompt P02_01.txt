@@ -1,0 +1,8 @@
+buat lah sebuah program dengan bahasa C tanpa adanya kendala error dan kata tambahan.
+saya memakai aplikasi visual studio code.
+berikut soalnya, 2 orang mahsiswa baru selesai melakukan perkuliahan. mereka berecana akan mengirimkan paket merek ke halaman kampung mereka masing masing. mereka menemukan "DEL Express" yang di mana paket mereka akan di hitung otomatis.
+ada beberapa yang harus di buat di program yaitu, foto pertama adalah ongkir paket untuk tempat yang akan di tuju.
+kemudian di foto kedua ada promo yang akan di dapat.
+foto ketiga ada perbandingan berat paket butet dan ucok.
+dan yang terakhir adalah kode untuk setiap tempaty tujuan.
+buat program yan gdi mana user akan 
