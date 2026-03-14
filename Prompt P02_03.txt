@@ -1,0 +1,9 @@
+Untuk mendukung operasional kafetaria di IT Del, data stok barang disimpan dalam sebuah rak gudang yang tersusun rapi berdasarkan kategori tertentu. Setiap barang disusun berurutan dan dikelompokkan berdasarkan pola posisi penyimpanan seperti pada ilustrasi rak.
+Setiap posisi barang dapat dianggap memiliki kategori berdasarkan pola tertentu (misalnya berdasarkan urutan indeks penyimpanan).
+Input:
+1.	Sebuah bilangan bulat N yang menyatakan jumlah total data stok.
+2.	N buah bilangan bulat (s₁, s₂, ..., sₙ) yang menyatakan jumlah stok setiap barang.
+3.	Sebuah bilangan bulat K yang menyatakan kode kategori barang yang ingin dihitung total stoknya.
+Tugas:
+Buatlah program C untuk menghitung total stok barang yang termasuk dalam kategori K berdasarkan pola penyimpanan rak.
+
